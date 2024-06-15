@@ -1,0 +1,6 @@
+name: maskpls
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
