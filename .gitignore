@@ -1,4 +1,4 @@
 *.ckpt
 *.egg-info
-/mask_pls/data
+/mask_pls/data/
 __pycache__/
